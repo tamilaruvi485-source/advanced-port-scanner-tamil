@@ -26,6 +26,13 @@ The program uses Python socket programming to attempt connections
 to a list of common ports on the target system.  
 If the connection is successful, the port is marked as **OPEN**.
 
+## How to run this project
+1. Clone the repo:
+   git clone https://github.com/tamilaruvi485-source/advanced-port-scanner-tamil
+2. Install Python (if not installed)
+3. Run:
+   python port-code.py
+
 ## Output
 - Takes target IP address or domain name as input
 - Displays open ports in the terminal
